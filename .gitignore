@@ -1,0 +1,14 @@
+# .idea
+*.idea
+
+# gradle All
+*.gradle
+*.settings.gradle
+*.gradlew
+*.gradlew.bat
+
+# jar
+*.jar
+
+# zip
+*.zip
